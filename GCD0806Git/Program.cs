@@ -18,6 +18,10 @@ namespace GCD0806Git
       return a + b;
     }
 
+    static int Sum(int a, int b, int c){
+      return a + b + c;
+    }
+
     static int Substract(int a, int b)
     {
       return a - b;
