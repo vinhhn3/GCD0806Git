@@ -22,5 +22,10 @@ namespace GCD0806Git
     {
       return a - b;
     }
+
+    static int Multiply(int a, int b)
+    {
+      return a * b;
+    }
   }
 }
