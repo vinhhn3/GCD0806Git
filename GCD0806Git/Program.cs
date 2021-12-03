@@ -45,5 +45,9 @@ namespace GCD0806Git
     {
       Console.WriteLine("Dummy");
     }
+    static void FeatureDev03()
+    {
+      Console.WriteLine("Dummy");
+    }
   }
 }
