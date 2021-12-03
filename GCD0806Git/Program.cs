@@ -40,5 +40,10 @@ namespace GCD0806Git
     {
       return a / b;
     }
+
+    static void FeatureDev02()
+    {
+      Console.WriteLine("Dummy");
+    }
   }
 }
