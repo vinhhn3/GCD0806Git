@@ -27,5 +27,10 @@ namespace GCD0806Git
     {
       return a * b;
     }
+
+    static int Divide(int a, int b)
+    {
+      return a / b;
+    }
   }
 }
