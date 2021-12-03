@@ -17,5 +17,10 @@ namespace GCD0806Git
     {
       return a + b;
     }
+
+    static int Substract(int a, int b)
+    {
+      return a - b;
+    }
   }
 }
